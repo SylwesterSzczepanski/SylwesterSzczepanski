@@ -5,6 +5,7 @@ This site is here to help me systematize my achievements and to share it with ot
 
 ## Certificates
 [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 87083
+
 DYPLOM za udział w Triathlonie Zarzadzania IT Issued by Asseco Academy
 
 ## My projects
